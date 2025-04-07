@@ -9,6 +9,7 @@ export const store = configureStore({
         cash: cashReducer,
         customers: customerReducer,
     }
+
 })
 
 
