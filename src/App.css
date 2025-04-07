@@ -1,0 +1,14 @@
+html{
+  background-color: rgb(226, 226, 226)
+
+}
+
+.App {
+
+  margin-left: 50%;
+  margin-top: 50%;
+  /* width: 500px; */
+
+  display: flex;
+  flex-direction: row;
+;}
